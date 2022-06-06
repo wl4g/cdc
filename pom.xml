@@ -11,6 +11,8 @@
 		<module>cdc-mysql-elasticsearch7</module>
 		<module>cdc-mysql-hbase</module>
 		<module>cdc-mysql-hive</module>
+		<module>cdc-mysql-hudi</module>
+		<module>cdc-mysql-iceberg</module>
 	</modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
